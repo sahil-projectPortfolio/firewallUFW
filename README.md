@@ -3,3 +3,5 @@
 Designed and implemented a firewall on Ubuntu using Uncomplicated Firewall (UFW) to secure network traffic. Configured rules to allow and deny specific services, ports, and IP addresses, ensuring robust network security.
 <br>
 <b>KEY SKILLS:</b>Linux Commands, UFW, Network Security, Bash Scripting
+<be>
+OUTCOME OF THE PROJECT: Successfully secured a network environment, reducing unauthorized access by configuring precise firewall rules.
